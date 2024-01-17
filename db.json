@@ -19,6 +19,11 @@
       "id": "4",
       "name": "Spider Man",
       "alterEgo": "Peter Parker"
+    },
+    {
+      "id": "b43b",
+      "name": "The Flash",
+      "alterEgo": "Barry Allen"
     }
   ],
   "friends": [
@@ -44,7 +49,11 @@
   "channels": [
     {
       "id": "codevolution",
-      "courses": ["react", "vue", "angular"]
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
     }
   ],
   "colors": [
