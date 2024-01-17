@@ -6,6 +6,7 @@ import Homepage from './components/Home.page'
 import RQSuperHeroPage from './components/RQSuperHero.page'
 import RQParallelPage from './components/RQParallel.page'
 import DependentQueriesPage from './components/DependentQueries.page'
+import PaginatedQueriesPage from './components/PaginatedQueries.page'
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
         <Route path='/rq-parallel' element={<RQParallelPage />} />
         <Route path='/rq-super-heroes/:id' element={<RQSuperHeroPage />} />
         <Route path='/rq-super-heroes' element={<RQSuperHeroesPage />} />
+        <Route path='/rq-paginated' element={<PaginatedQueriesPage />} />
         <Route path='/rq-dependent' element={<DependentQueriesPage email='vishwas@example.com' />} />
         <Route path='/' element={<Homepage />} />
       </Routes>
