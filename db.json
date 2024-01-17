@@ -24,6 +24,41 @@
       "id": "b43b",
       "name": "The Flash",
       "alterEgo": "Barry Allen"
+    },
+    {
+      "id": "4e40",
+      "name": "Shazam",
+      "alterEgo": "The Billy Batson"
+    },
+    {
+      "id": "c1dc",
+      "name": "CartWomen",
+      "alterEgo": "Selina Kyle"
+    },
+    {
+      "id": "87cc",
+      "name": "test",
+      "alterEgo": "test"
+    },
+    {
+      "id": "8878",
+      "name": "test 2",
+      "alterEgo": "test 2"
+    },
+    {
+      "id": "5a35",
+      "name": "test 3",
+      "alterEgo": "test 3"
+    },
+    {
+      "id": "3046",
+      "name": "test 4",
+      "alterEgo": "test 4"
+    },
+    {
+      "id": "3cec",
+      "name": "t5",
+      "alterEgo": "t5"
     }
   ],
   "friends": [
