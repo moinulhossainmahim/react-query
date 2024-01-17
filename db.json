@@ -20,5 +20,19 @@
       "name": "Spider Man",
       "alterEgo": "Peter Parker"
     }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Mike Doe"
+    },
+    {
+      "id": 3,
+      "name": "Jonas Schedtman"
+    }
   ]
 }
