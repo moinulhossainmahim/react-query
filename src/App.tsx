@@ -7,6 +7,7 @@ import RQSuperHeroPage from './components/RQSuperHero.page'
 import RQParallelPage from './components/RQParallel.page'
 import DependentQueriesPage from './components/DependentQueries.page'
 import PaginatedQueriesPage from './components/PaginatedQueries.page'
+import { InfiniteQueriesPage } from './components/InfiniteQueries.page'
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
         <Route path='/rq-super-heroes/:id' element={<RQSuperHeroPage />} />
         <Route path='/rq-super-heroes' element={<RQSuperHeroesPage />} />
         <Route path='/rq-paginated' element={<PaginatedQueriesPage />} />
+        <Route path='/rq-infinite' element={<InfiniteQueriesPage />} />
         <Route path='/rq-dependent' element={<DependentQueriesPage email='vishwas@example.com' />} />
         <Route path='/' element={<Homepage />} />
       </Routes>
