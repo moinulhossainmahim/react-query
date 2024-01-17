@@ -59,6 +59,11 @@
       "id": "3cec",
       "name": "t5",
       "alterEgo": "t5"
+    },
+    {
+      "id": "cd0a",
+      "name": "test",
+      "alterEgo": "test"
     }
   ],
   "friends": [
